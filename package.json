@@ -1,6 +1,6 @@
 {
   "name": "@deepseek-ai/dsh-deliverables-minimal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Minimal changed-files card header: replaces the in-box ui-deliverables card in DeepSeek Harness Desktop.",
   "license": "MIT",
   "type": "module",
