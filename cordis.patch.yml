@@ -1,0 +1,9 @@
+# Minimal changed-files card. The in-box ui-deliverables row is disabled and
+# this package's row carries the same Host half (file-reference guidance and
+# authenticated native opens) plus the minimal browser half, so the Web/Desktop
+# client serves this card instead of the in-box one.
+- insert:
+    - id: deliverables-minimal
+      name: '@deepseek-ai/dsh-deliverables-minimal'
+- id: ui-deliverables
+  disabled: true
